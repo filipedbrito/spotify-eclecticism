@@ -1,0 +1,3 @@
+PLAYLIST_PREFIX = "top_tracks_"
+PLAYLIST_LIMIT = 50
+DATA_RAW_PATH = "data/raw"
